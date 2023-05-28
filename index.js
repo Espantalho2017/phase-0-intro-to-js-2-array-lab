@@ -42,6 +42,7 @@ function destructivelyRemoveFirstCat() {
 }
 
 destructivelyRemoveFirstCat
+// what does this do?
 
 console.log(cats);
     cats.length = 0;
